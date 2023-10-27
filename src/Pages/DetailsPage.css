@@ -116,7 +116,7 @@ a:visited{
  }
  .userInfo p{
     font-size: 1rem;
-    text-align: center;
+    text-align: start;
  }
  a{
     font-size: 1rem;
