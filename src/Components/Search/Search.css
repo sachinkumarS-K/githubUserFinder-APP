@@ -16,6 +16,9 @@
 
 @media only screen and (max-width: 600px) {
     .inpCont input{
-        width: 70%;
+        width: 75%;
     }
-  }
+    .inpCont{
+        width: 95%;
+    }
+}
